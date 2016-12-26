@@ -1,6 +1,7 @@
 # A Prediction Model for Taiwan Presidential Election
 
-[Github]()
+[Github](https://github.com/mw10104587/tw_president_prediction)
+[iPython Notebook](https://github.com/mw10104587/tw_president_prediction/blob/master/Predicting%20with%20pollsters.ipynb)
 [Files](https://drive.google.com/open?id=16YvVVK06X0pWsRJCijeAaThY8zymqVYToewzpxXoGpA)
 
 ## Introduction
